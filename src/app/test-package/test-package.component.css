@@ -1,0 +1,11 @@
+@import url('../customStyle.css');
+
+div.dropdown.dropdown-action{
+  float: right;
+}
+#patientTable {
+  width: 100% !important;
+}
+#description{
+  display: none;
+}

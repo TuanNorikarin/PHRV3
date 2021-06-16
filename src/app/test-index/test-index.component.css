@@ -1,0 +1,11 @@
+@import url('../customStyle.css');
+
+div.dropdown.dropdown-action{
+  float: right;
+}
+#description{
+  display: none;
+}
+#indexTable {
+  width: 100% !important;
+}

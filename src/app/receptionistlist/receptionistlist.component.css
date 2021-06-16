@@ -1,0 +1,12 @@
+@import url('../customStyle.css');
+
+.sidebar-menu li#aRecep a {
+  color: #009efb;
+  background-color: #e3e7e8;
+}
+div.dropdown.dropdown-action{
+  float: right;
+}
+#patientTable {
+  width: 100% !important;
+}
